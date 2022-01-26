@@ -1,0 +1,6 @@
+{
+   "port": 5500,
+   "jwtSecret": "karamax mern secret",
+   "mongoUrl": "mongodb+srv://karamax:mongo-MONGO-123@cluster0.nfqcw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+   "baseUrl": "http://localhost:5000"
+}
